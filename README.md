@@ -1,3 +1,3 @@
 # kinematics
 
-Ejercicio1 
+
